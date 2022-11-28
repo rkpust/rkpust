@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rezaul-Karim-PUST
-- 👀 I’m interested in ..."Machine Learning"
-- 🌱 I’m currently learning ... "Laravel & Bootstrap3"
+- 👋 Hi, I’m @Rezaul Karim
+- 👀 I’m interested in ..."Laravel"
+- 🌱 I’m currently learning ... "Machine Learning"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
