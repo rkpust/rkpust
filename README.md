@@ -53,9 +53,9 @@ Hi, this is Rezaul Karim. I have completed B.Sc Engg. in Computer Science & Engi
 # :briefcase: Work Experiences
 
   ### :running: Currently Working
-  <br>
-  <br>
-    Coming Soon...
+  
+  * Self Learning
+  * Content Creator
   <br>
   <br>
    
