@@ -105,6 +105,13 @@ Hi, this is Rezaul Karim. I have completed B.Sc Engg. in Computer Science & Engi
 - 🇮🇳 Hindi : Intermediate
 - 🇸🇦 Arabic : Basic
 
+<!---  Sports / Activities / Hobby --->
+## Sports / Activities / Hobby:
+
+-  ♟️ Chess
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking, 🌏Browsing
+- ✈️ Travelling, 📖 Reading
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
