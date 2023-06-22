@@ -55,6 +55,7 @@ Hi, this is Rezaul Karim. I have completed B.Sc Engg. in Computer Science & Engi
   ### :running: Currently Working
   
   * Self Learning
+  * VueJS 3
   * Content Creator
   <br>
   <br>
