@@ -57,7 +57,7 @@ Hi, this is Rezaul Karim. I have completed B.Sc Engg. in Computer Science & Engi
   * [#OpenToWork](https://www.linkedin.com/feed/update/urn:li:activity:7074072621708951552/)
   * Self Learning
   * VueJS 3
-  * Trying a Job
+  * Programming Practice
   * Content Creator
   <br>
   <br>
