@@ -50,12 +50,12 @@ Hi, this is Rezaul Karim. I have completed B.Sc Engg. in Computer Science & Engi
 
   ### :running: Currently Working
   
-  * TDD
-  * Self Learning
-  * Bootstrap-Vue
-  * Testing (Unit/Feature)
-  * Programming Practice
-  * Content Creator
+  * Company Name: Fiber@Home Limited, Dhaka, Bangladesh 🇧🇩
+ * Position: Programmer (Python, Django, HTML, CSS, Bootstrap, JavaScript, React, Git, Postman, Docker)
+ * Type: On Probation
+ * Job Duration: September 2023 – Present
+ 
+ 🌐 [`COMPANY WEBSITE`](https://www.fiberathome.net/)
   <br>
   <br>
    
