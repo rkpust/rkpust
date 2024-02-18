@@ -28,7 +28,9 @@
 
 # 💫 About Me:
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rkpust&show_icons=true&count_private=true" alt="Rezaul Karim's Github Stats"/>
-Hi, this is Rezaul Karim. I have completed B.Sc Engg. in Computer Science & Engineering (CSE) at Pabna University of Science and Technology (PUST) recently. I am a Laravel Developer from Rajshahi, Bangladesh. I have rich experience in web application development using Laravel. Using PHP as my primary back-end language since 2019. I am using CSS, Bootstrap, Tailwind CSS, JavaScript, Vue.js and MySQL for my daily job. Also, I am good at WordPress. Passionate about programming and always try to learn something as well as improve myself. I prefer to contribute to open-source projects. I do my job with great passion and dedication. I have worked at Softias Technologies as Software Development Engineer (Internship).<br>Thank you for visiting my profile. 😍
+Hi, this is Rezaul Karim. I have completed B.Sc Engg. in Computer Science & Engineering (CSE) at Pabna University of Science and Technology (PUST) . I am a full stack web developer from Rajshahi, Bangladesh. I have rich experience in web application development using Laravel and Django. Starting to use PHP and Python as my primary back-end languages from 2019 and 2023 respectively. Even Python was familiar to me before this time. I am using CSS, Bootstrap, Tailwind CSS, JavaScript, Vue.js, Reac.js, MySQL and PostgreSQL for my daily job. Also, I am good at WordPress. Passionate about programming and always try to learn something as well as improve myself. I prefer to contribute to open-source projects. I do my job with great passion and dedication. I have worked at Softias Technologies as Software Development Engineer (Internship). Now I am working as a programmer at Fiber@Home Ltd.
+
+Thank you for visiting my profile. 😍
 
 ---
 <!--- Tech Skill --->
