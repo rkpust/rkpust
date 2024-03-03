@@ -54,7 +54,7 @@ Thank you for visiting my profile. 😍
   
   * Company Name: Fiber@Home Limited, Dhaka, Bangladesh 🇧🇩
  * Position: Programmer (Python, Django, HTML, CSS, Bootstrap, JavaScript, React, Git, Postman, Docker)
- * Type: On Probation
+ * Type: Permanent
  * Job Duration: September 2023 – Present
  
  🌐 [`COMPANY WEBSITE`](https://www.fiberathome.net/)
