@@ -51,7 +51,7 @@ Thank you for visiting my profile. 😍
 <!--- work experiences --->
 # :briefcase: Work Experiences
 
-  ### :running: Currently Working
+  ### 🔄 Currently Working
   
   * Company Name: Fiber@Home Limited, Dhaka, Bangladesh 🇧🇩
  * Position: Programmer (Python, Django, HTML, CSS, Bootstrap, JavaScript, React, Git, Postman, Docker)
@@ -62,7 +62,7 @@ Thank you for visiting my profile. 😍
   <br>
   <br>
    
- ### :negative_squared_cross_mark: Previous Companies
+ ### ✔️ Previous Companies
  
  * Company Name: Softias Technologies, Tangail, Bangladesh 🇧🇩
  * Position: Software Development Engineer (PHP, Laravel, Tailwind CSS, git, Postman)
