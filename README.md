@@ -76,6 +76,8 @@ Thank you for visiting my profile. 😍
  
 * B.Sc Engineering in Computer Science and Engineering (CSE) at Pabna University of Science and Technology [`(PUST)`](https://pust.ac.bd/), Pabna, Bangladesh. 🇧🇩
     * March 2017 to April 2023.
+ 
+  
 <!--- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rkpust) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IamRezaul_Karim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rezaul-karim)
@@ -100,6 +102,12 @@ Thank you for visiting my profile. 😍
 [![](https://gtce.itsvg.in/api?username=IamRezaul_Karim)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 --->
 
+
+<!--- Contributions --->
+## 🥇 Open Source Contributions
+ 
+* [`https://github.com/gunthercox/chatterbot-corpus#247`](https://github.com/gunthercox/chatterbot-corpus/pull/247)
+  
 <!--- Languages --->
 ## 🆎 Languages
 
