@@ -28,8 +28,11 @@
 
 # 💫 About Me:
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rkpust&show_icons=true&count_private=true" alt="Rezaul Karim's Github Stats"/>
-Hi, this is <b>Rezaul Karim</b>. I have completed B.Sc Engg. in Computer Science & Engineering (<b>CSE</b>) at Pabna University of Science and Technology (<b>PUST</b>) . I am a <b>Full Stack Web Developer<b> from Rajshahi, Bangladesh. I have rich experience in web application development using Django and Laravel. Starting to use PHP and Python as my primary back-end languages from 2019 and 2023 respectively. Even Python was familiar to me before this time. I am using <b>CSS</b>, <b>Bootstrap</b>, <b>Tailwind CSS</b>, <b>JavaScript</b>, <b>AJAX</b>, <b>jQuery</b>, <b>Vue.js</b>, <b>React.js</b>, <b>MySQL</b> and <b>PostgreSQL</b> for my daily job. Also, I am good at WordPress. Passionate about programming and always try to learn something as well as improve myself. I prefer to contribute to open-source projects. I do my job with great passion and dedication. I have worked at <strong>Softias Technologies</strong> as <strong>Software Development Engineer</strong> (Internship). Now I am working as a <strong>Programmer</strong> at <strong>Fiber@Home Ltd</strong>.
+Hi, this is <b>Rezaul Karim</b>. I have completed B.Sc Engg. in Computer Science & Engineering (<b>CSE</b>) at Pabna University of Science and Technology (<b>PUST</b>). I am a <b>Full Stack Web Developer<b> from Rajshahi, Bangladesh. I have rich experience in web application development using Django and Laravel. Starting to use PHP and Python as my primary back-end languages from 2019 and 2023 respectively. Even Python was familiar to me before this time. I am using <b>CSS</b>, <b>Bootstrap</b>, <b>Tailwind CSS</b>, <b>JavaScript</b>, <b>AJAX</b>, <b>jQuery</b>, <b>Vue.js</b>, <b>React.js</b>, <b>MySQL</b> and <b>PostgreSQL</b> for my daily job. I am passionate about programming and always try to learn new things and improve myself. I prefer to contribute to open-source projects. I do my job with great passion and dedication. I have worked at <strong>Softias Technologies</strong> as a <strong>Software Development Engineer</strong> (Internship). Now I am working as a <strong>Programmer</strong> at <strong>Fiber@Home Ltd</strong>.
 
+<br>
+<br>
+Looking for my next position in a top-tier company based on my experience.
 Thank you for visiting my profile. 😍
 
 ---
