@@ -108,7 +108,7 @@ Thank you for visiting my profile. 😍
 
 <!--- Contributions --->
 ## 🥇 Open Source Contributions
- 
+* [`https://github.com/rkpust/django-user-activity`](https://github.com/rkpust/django-user-activity)
 * [`https://github.com/rkpust/my_math`](https://github.com/rkpust/my_math)
 * [`https://github.com/gunthercox/chatterbot-corpus#247`](https://github.com/gunthercox/chatterbot-corpus/pull/247)
   
