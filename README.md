@@ -56,10 +56,10 @@ Thank you for visiting my profile. 😍
 
   ### 🔄 Currently Working
   
-  * Company Name: Fiber@Home Limited, Dhaka, Bangladesh 🇧🇩
- * Position: Programmer (Python, Django, HTML, CSS, Bootstrap, JavaScript, React, Git, Postman, Docker)
- * Type: Permanent
- * Job Duration: September 2023 – Present
+ * Company Name: `Fiber@Home Limited`, Dhaka, Bangladesh 🇧🇩
+ * Position: `Programmer` (Python, Django, HTML, CSS, Bootstrap, JavaScript, React, Git, Postman, Docker)
+ * Type: `Permanent`
+ * Job Duration: `September 2023 – Present`
  
  🌐 [`COMPANY WEBSITE`](https://www.fiberathome.net/)
   <br>
@@ -67,10 +67,10 @@ Thank you for visiting my profile. 😍
    
  ### ✔️ Previous Companies
  
- * Company Name: Softias Technologies, Tangail, Bangladesh 🇧🇩
- * Position: Software Development Engineer (PHP, Laravel, Tailwind CSS, git, Postman)
- * Type: Internship
- * Job Duration: May 2022 – August 2022
+ * Company Name: `Softias Technologies`, Tangail, Bangladesh 🇧🇩
+ * Position: `Software Development Engineer` (PHP, Laravel, Tailwind CSS, git, Postman)
+ * Type: `Internship`
+ * Job Duration: `May 2022 – August 2022`
  
  🌐 [`COMPANY WEBSITE`](https://softias.com/)
  
