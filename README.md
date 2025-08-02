@@ -77,8 +77,8 @@ Thank you for visiting my profile. 😍
  <!--- education --->
 # 🎓 Education
  
-* B.Sc Engineering in Computer Science and Engineering (CSE) at Pabna University of Science and Technology [`(PUST)`](https://pust.ac.bd/), Pabna, Bangladesh. 🇧🇩
-    * March 2017 to April 2023.
+* ***B.Sc Engineering*** in ***Computer Science and Engineering*** (`CSE`) at ***Pabna University of Science and Technology*** [`(PUST)`](https://pust.ac.bd/), Pabna, Bangladesh. 🇧🇩
+    * `March 2017 to April 2023`.
  
   
 <!--- 
