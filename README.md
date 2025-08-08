@@ -57,7 +57,7 @@ Thank you for visiting my profile. 😍
   ### 🔄 Currently Working
   
  * Company Name: `Fiber@Home Limited`, Dhaka, Bangladesh 🇧🇩
- * Position: `Programmer` (Python, Django, HTML, CSS, Bootstrap, JavaScript, React, Git, Postman, Docker)
+ * Position: `Programmer` (Python, Django, HTML, CSS, Bootstrap, JavaScript, React, Git, Postman, Docker, NMS Automation)
  * Type: `Permanent`
  * Job Duration: `September 2023 – Present`
  
